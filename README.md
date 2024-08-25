@@ -1,6 +1,6 @@
-<p>Olá! Me chamo Messias e sou um desenvolvedor front-end</p>
+<h2>Olá! Me chamo Messias e sou um desenvolvedor front-end</h2>
 
- Amante de café☕ e ainda mais de programação; Java?
+Amante de café☕ e ainda mais de programação; Java?
 <br>
 <br>
 <br>
