@@ -5,5 +5,4 @@ Amante de café☕ e ainda mais de programação; Java?
 <br>
 <br>
 <br>
-<p>E-mail: example@gmail.com</p>
-<p>Linkedin</p>
+<p>E-mail: messiasrs83@gmail.com</p>
